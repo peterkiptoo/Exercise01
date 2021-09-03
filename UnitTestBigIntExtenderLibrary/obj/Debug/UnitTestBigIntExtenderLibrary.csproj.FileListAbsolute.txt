@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\bin\Debug\UnitTestBigIntExtenderLibrary.dll
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\bin\Debug\UnitTestBigIntExtenderLibrary.pdb
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\bin\Debug\Exercise01.dll
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\bin\Debug\Exercise01.pdb
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\obj\Debug\UnitTestBigIntExtenderLibrary.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\obj\Debug\UnitTestBigIntExtenderLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\obj\Debug\UnitTestBigIntExtenderLibrary.csproj.CopyComplete
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\obj\Debug\UnitTestBigIntExtenderLibrary.dll
+C:\Users\User\source\repos\UnitTestBigIntExtenderLibrary\obj\Debug\UnitTestBigIntExtenderLibrary.pdb

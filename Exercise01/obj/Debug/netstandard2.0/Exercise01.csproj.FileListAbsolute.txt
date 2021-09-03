@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Exercise01\obj\Debug\netstandard2.0\Exercise01.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Exercise01\obj\Debug\netstandard2.0\Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Exercise01\obj\Debug\netstandard2.0\Exercise01.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercise01\obj\Debug\netstandard2.0\Exercise01.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercise01\obj\Debug\netstandard2.0\Exercise01.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercise01\bin\Debug\netstandard2.0\Exercise01.deps.json
+C:\Users\User\source\repos\Exercise01\bin\Debug\netstandard2.0\Exercise01.dll
+C:\Users\User\source\repos\Exercise01\bin\Debug\netstandard2.0\Exercise01.pdb
+C:\Users\User\source\repos\Exercise01\obj\Debug\netstandard2.0\Exercise01.dll
+C:\Users\User\source\repos\Exercise01\obj\Debug\netstandard2.0\Exercise01.pdb
